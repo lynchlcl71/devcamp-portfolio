@@ -1,3 +1,21 @@
+
+var multiplicationTable = "";
+
+for (var i = 0; i <= 10; i++) {
+
+  for(var j = 1; j <= 2; j==)
+  muliplicationTable += i * j + "";
+
+  multiplicationTable += <br>;
+
+}
+
+var result = document.getElementById("result");
+
+  result.innerHTML
+
+-----------------------------------------------------------
+
 function test()
 {
   return 5;
@@ -32,3 +50,23 @@ var result  = divide(10,5);
 alert(result);
 
 ---------------------------------------------------------------
+function test() {
+
+  alert("sample");
+
+}
+
+----------------------------------------------------------------
+test();
+
+var x = document.getElementById("programmingCourses").childNodes[0].firstChild;
+
+ alert(x.nodeValue);
+
+----------------------------------------------------------
+
+var programmingCourses = document.getElementById("programmingCourses").getElementByTagName("li");
+
+alert(programmingCourses[0].innerHTML);
+
+--------------------------------------------------
