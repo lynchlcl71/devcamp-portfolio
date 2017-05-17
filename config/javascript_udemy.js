@@ -1,20 +1,6 @@
+document.getElementById("text").innerHTML = "Hello Rob"
 
-var multiplicationTable = "";
-
-for (var i = 0; i <= 10; i++) {
-
-  for(var j = 1; j <= 2; j==)
-  muliplicationTable += i * j + "";
-
-  multiplicationTable += <br>;
-
-}
-
-var result = document.getElementById("result");
-
-  result.innerHTML
-
------------------------------------------------------------
+--------------------
 
 function test()
 {
@@ -70,3 +56,20 @@ var programmingCourses = document.getElementById("programmingCourses").getElemen
 alert(programmingCourses[0].innerHTML);
 
 --------------------------------------------------
+
+var multiplicationTable = "";
+
+for (var i = 0; i <= 10; i++) {
+
+  for(var j = 1; j <= 2; j==)
+  muliplicationTable += i * j + "";
+
+  multiplicationTable += <br>;
+
+}
+
+var result = document.getElementById("result");
+
+  result.innerHTML
+
+---------------------------------------
